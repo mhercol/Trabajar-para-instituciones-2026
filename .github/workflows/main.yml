@@ -1,4 +1,5 @@
-name: Sync to instituciones 2026
+name: Sync to UVA 2025
+
 on:
   push:
     branches:

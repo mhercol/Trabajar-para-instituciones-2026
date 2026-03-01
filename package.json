@@ -1,0 +1,14 @@
+{
+  "name": "working-in-european-institutions",
+  "version": "1.0.0",
+  "description": "Slides: Una carrera en Europa para Ingenieros IT",
+  "scripts": {
+    "build": "marp slides/working-in-european-institutions.md -o dist/working-in-european-institutions.html",
+    "build:pdf": "marp slides/working-in-european-institutions.md --pdf -o dist/working-in-european-institutions.pdf",
+    "serve": "marp slides/working-in-european-institutions.md --server",
+    "watch": "marp slides/working-in-european-institutions.md --watch -o dist/working-in-european-institutions.html"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.0.0"
+  }
+}
