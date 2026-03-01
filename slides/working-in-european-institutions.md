@@ -80,6 +80,13 @@ style: |
     font-size: 0.88em;
   }
 
+  .list-item {
+    padding: 4px 0;
+    padding-left: 12px;
+    border-left: 2px solid #414868;
+    margin: 4px 0;
+  }
+
   .center-content {
     display: flex;
     flex-direction: column;
@@ -182,6 +189,7 @@ Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
 
 </div>
 
+---
 
 # El hueco que nadie ve
 
