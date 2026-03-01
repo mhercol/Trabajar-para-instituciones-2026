@@ -142,25 +142,30 @@ La pregunta es: **¿vais a estar ahí?**
 
 ---
 
-# Quién soy
+# Quien soy
 
-**Miguel Herrero Collantes** · Ingeniero de Telecomunicación
+<div class="text-img">
+<div>
 
-▸ **Responsable de Seguridad de Red** — EEAS · Bruselas (2021–hoy)
-▸ **Analista de SOC** — Consejo de la UE · Bruselas (2017–2021)
-▸ **Consultor de ciberseguridad** — Sector financiero (2015–2019)
-▸ **Técnico de ciberseguridad** — INCIBE (2011–2017)
-▸ **Ingeniero de Red 3G/4G** — Datatronics (2008–2011)
+**Miguel Herrero Collantes**
 
-<div class="info-box">
+<div class="list-item">Ingeniero técnico de telecomunicación - Sistemas electrónicos</div>
+<div class="list-item">Ingeniero de Telecomunicación</div>
+<div class="list-item"><strong>Responsable de Seguridad de red</strong> - EEAS (Bruselas) (2021-Actualidad)</div>
+<div class="list-item"><strong>Analista de SOC</strong> - Consejo de la UE (Bruselas) (2017-2021)</div>
+<div class="list-item"><strong>Consultor de ciberseguridad</strong> - Empresas financieras (2015-2019)</div>
+<div class="list-item"><strong>Técnico de ciberseguridad</strong> - Incibe (2011-2017)</div>
+<div class="list-item"><strong>Ingeniero de Red 3G/4G</strong> - Datatronics (2008-2011)</div>
 
-Llevo más de 8 años trabajando en instituciones europeas.
-Hoy os cuento lo que nadie os explicó en la carrera.
+Correo: mhercol[@]gmail[.]com
 
 </div>
+<div>
 
+![w:300](./images/about.png)
+
+</div>
 ---
-
 # ¿Por qué estoy aquí?
 
 <div class="highlight-box">
@@ -581,3 +586,4 @@ epso.europa.eu · eu-careers.europa.eu · traineeships.ec.europa.eu · cert.euro
 </div>
 
 </div>
+
