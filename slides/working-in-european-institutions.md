@@ -290,7 +290,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box">
 
-## 🔒 Ciberseguridad
+## Ciberseguridad
 
 <div class="list-item">CERT-EU e instituciones propias</div>
 <div class="list-item">SOC / Respuesta a incidentes</div>
@@ -301,7 +301,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box">
 
-## 🏗️ Infraestructura
+## Infraestructura
 
 <div class="list-item">Despliegue de redes globales</div>
 <div class="list-item">Cloud y sistemas híbridos</div>
@@ -312,7 +312,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box">
 
-## 📋 Gestión y Compliance
+## Gestión y Compliance
 
 <div class="list-item">Protección de datos (GDPR interno)</div>
 <div class="list-item">Auditoría y cumplimiento normativo</div>
@@ -367,7 +367,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box">
 
-## 👔 Funcionario
+## Funcionario
 
 <div class="list-item">Proceso EPSO (largo, 1–2 años)</div>
 <div class="list-item">Plaza fija, carrera garantizada</div>
@@ -377,7 +377,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box" style="margin-top:14px">
 
-## 📋 Agente Contractual / Temporal
+## Agente Contractual / Temporal
 
 <div class="list-item">Proceso EPSO (más ágil)</div>
 <div class="list-item">Contratos renovables (4+2 años)</div>
@@ -390,7 +390,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box">
 
-## 🏢 Externo
+## Externo
 
 <div class="list-item">Via consultoras o como autónomo</div>
 <div class="list-item">La puerta de entrada más rápida</div>
@@ -400,7 +400,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="phase-box" style="margin-top:14px">
 
-## 🎓 Becario
+## Becario
 
 <div class="list-item">BlueBook Traineeship (EC)</div>
 <div class="list-item">5 meses, <strong>1.493€/mes</strong> (2026)</div>
@@ -418,13 +418,14 @@ Correo: mhercol[@]gmail[.]com
 <div class="cols">
 <div>
 
-**El proceso de selección EPSO**
+**El proceso de selección EPSO** (EPSO/AD/427/26)
 
 <div class="list-item">Convocatorias públicas en <strong>eu-careers.europa.eu</strong></div>
-<div class="list-item">Pruebas de razonamiento (verbal, numérico, abstracto)</div>
-<div class="list-item">Assessment Centre (soft skills + competencias)</div>
+<div class="list-item">Proceso <strong>100% remoto</strong> — sin Assessment Centre presencial</div>
+<div class="list-item">4 pruebas MCQ: <strong>Razonamiento</strong> (verbal/numérico/abstracto) → <strong>Conocimientos UE</strong> → <strong>Competencia digital</strong> → <strong>EUFTE</strong> (ensayo escrito 40 min sobre asuntos UE)</div>
+<div class="list-item">Las MCQ se puntúan en cascada: hay que superar cada fase para que se corrija la siguiente</div>
 <div class="list-item">Duración total: <strong>hasta 2 años</strong></div>
-<div class="list-item">Proceso generalista en pausa — pero <strong>especialistas IT siguen convocándose</strong></div>
+<div class="list-item">Proceso generalista 2026 — <strong>especialistas IT se convocan regularmente</strong></div>
 
 </div>
 <div>
@@ -438,8 +439,8 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="warn-box">
 
-Última convocatoria AD generalista:
-**28.000 candidatos** para **158 plazas** · Idioma: **B2 EN/FR/DE**
+Última convocatoria AD generalista (EPSO/AD/427/26, feb 2026):
+**~22.000 candidatos** esperados para **1.490 plazas** · Idioma: **C1 en un idioma UE + B2 en un segundo**
 
 </div>
 
@@ -448,7 +449,7 @@ Correo: mhercol[@]gmail[.]com
 
 <div class="highlight-box">
 
-Todos los perfiles: **B2 mínimo en inglés, francés o alemán** · Salarios exentos de IRPF nacional · ver siguiente slide
+AD5: **C1 mínimo en un idioma oficial UE + B2 en un segundo** · Salarios exentos de IRPF nacional · ver siguiente slide
 
 </div>
 
@@ -482,11 +483,11 @@ Salarios **exentos de IRPF** del país de residencia. Sujetos al impuesto comuni
 
 Los complementos varían **según situación personal**:
 
-<div class="list-item"><strong>Expatriación</strong>: +16% salario base si te trasladas desde otro país · mín. ~694 €/mes</div>
+<div class="list-item"><strong>Expatriación</strong>: +16% salario base si te trasladas desde otro país</div>
 <div class="list-item"><strong>Hogar</strong>: +2% si tienes pareja o dependientes a cargo</div>
-<div class="list-item"><strong>Hijo a cargo</strong>: ~432 €/mes por hijo dependiente</div>
-<div class="list-item"><strong>Educación</strong>: hasta ~8.700 €/año por hijo escolarizado</div>
-<div class="list-item"><strong>Seguro médico</strong>: RCAM cubre ~80–85% de gastos médicos</div>
+<div class="list-item"><strong>Hijo a cargo</strong>: una cantidad por hijo dependiente</div>
+<div class="list-item"><strong>Educación</strong>: Posibilidad de Escuelas Europeas si las hay, o colegios privados</div>
+<div class="list-item"><strong>Seguro médico</strong>: RCAM cubre ~80–85% de gastos médicos a nivel mundial</div>
 <div class="list-item"><strong>Pensión europea</strong>: esquema propio, contribución ~10% salario</div>
 <div class="list-item"><strong>Teletrabajo</strong>: 2–3 días/semana en la mayoría de servicios</div>
 <div class="list-item"><strong>Viaje anual</strong> al país de origen reembolsado</div>
@@ -530,13 +531,13 @@ Los complementos varían **según situación personal**:
 <div class="info-box">
 
 **IT Experts (AD)** — 2 campos
-<div class="list-item">🔧 IT Infra, Project Mgmt, Cloud y Redes</div>
-<div class="list-item">🤖 IA, Data Science y <strong>Ciberseguridad</strong></div>
+<div class="list-item"> IT Infra, Project Mgmt, Cloud y Redes</div>
+<div class="list-item">IA, Data Science y <strong>Ciberseguridad</strong></div>
 
 **ICT Experts (AST)** — 3 campos
-<div class="list-item">🖧 IT Infrastructure, cloud y redes</div>
-<div class="list-item">💻 Desarrollo de software</div>
-<div class="list-item">🎧 User support</div>
+<div class="list-item">IT Infrastructure, cloud y redes</div>
+<div class="list-item">Desarrollo de software</div>
+<div class="list-item">User support</div>
 
 </div>
 
@@ -655,7 +656,7 @@ Busca empresas proveedoras de la Comisión Europea, el Consejo o EEAS en LinkedI
 | Récord de becarios | **>1.900** en 2024 (año histórico) |
 | Becarios 2020–2025 | **9.562 totales** |
 | Solicitudes pico (2021) | **>19.000** en una sola convocatoria |
-| Becarios IT (4 años) | **solo 20** 😔 |
+| Becarios IT (4 años) | **solo 20**  |
 
 <div class="info-box">
 
@@ -685,7 +686,7 @@ traineeships.ec.europa.eu
 
 <div class="highlight-box">
 
-👉 traineeships.ec.europa.eu
+traineeships.ec.europa.eu
 
 </div>
 
@@ -778,7 +779,7 @@ Muchos compañeros llevan 10, 15, 20 años y **no se han aburrido**: han cambiad
 
 <div class="center-content">
 
-## ¿Dudas? ¡Adelante! 🙋
+## ¿Dudas? ¡Adelante!
 
 **Miguel Herrero Collantes**
 
@@ -794,3 +795,6 @@ epso.europa.eu · eu-careers.eu · cert.europa.eu · enisa.europa.eu
 </div>
 
 </div>
+
+
+
