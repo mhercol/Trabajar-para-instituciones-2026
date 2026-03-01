@@ -18,13 +18,14 @@ jobs:
 
       - name: Marp Build (HTML & PDF)
         run: |
-          # 1. Identificar el archivo (Busca cualquier .md dentro de la carpeta slides)
-          # Lo renombramos internamente a "input.md" para que los comandos de Docker sean fijos
+          # 1. Identificar el archivo
           INPUT_FILE=$(ls slides/*.md | head -n 1)
           echo "Procesando archivo: $INPUT_FILE"
           cp "$INPUT_FILE" input.md
 
-          # 2. FIX de permisos para Docker
+          # 2. FIX DE PERMISOS: Damos permiso de escritura a la raíz
+          # Esto permite que Docker cree index.html y el PDF sin errores de EACCES
+          chmod 777 .
           chmod 777 input.md
 
           # 3. Generar HTML
@@ -32,7 +33,7 @@ jobs:
             marpteam/marp-cli \
             --html input.md -o index.html
 
-          # 4. Generar PDF (con el fix de Sandbox de Chrome)
+          # 4. Generar PDF
           docker run --rm -v $GITHUB_WORKSPACE:/home/marp/app \
             marpteam/marp-cli \
             --chrome-arg --no-sandbox \
@@ -40,15 +41,15 @@ jobs:
             --allow-local-files \
             --pdf input.md -o presentacion-instituciones-uva.pdf
 
-      - name: Prepare public folder
-        run: |
-          mkdir -p public
-          [ -f index.html ] && mv index.html public/
-          [ -f presentacion-instituciones-uva.pdf ] && mv presentacion-instituciones-uva.pdf public/
+           - name: Prepare public folder
+             run: |
+            mkdir -p public
+            [ -f index.html ] && mv index.html public/
+            [ -f presentacion-instituciones-uva.pdf ] && mv presentacion-instituciones-uva.pdf public/
           
-          # Copiamos la carpeta de imágenes si existe (indiferente de si está en raíz o dentro de slides)
-          cp -r images public/ 2>/dev/null || true
-          cp -r slides/images public/ 2>/dev/null || true
+            # Copiamos la carpeta de imágenes si existe (indiferente de si está en raíz o dentro de slides)
+            cp -r images public/ 2>/dev/null || true
+            cp -r slides/images public/ 2>/dev/null || true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
