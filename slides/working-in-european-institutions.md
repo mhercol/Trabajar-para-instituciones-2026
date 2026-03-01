@@ -165,7 +165,7 @@ Correo: mhercol[@]gmail[.]com
 ![w:300](./images/about.png)
 
 </div>
----
+
 # ¿Por qué estoy aquí?
 
 <div class="highlight-box">
@@ -586,4 +586,5 @@ epso.europa.eu · eu-careers.europa.eu · traineeships.ec.europa.eu · cert.euro
 </div>
 
 </div>
+
 
