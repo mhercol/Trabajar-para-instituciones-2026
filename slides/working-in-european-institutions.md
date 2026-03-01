@@ -163,13 +163,12 @@ Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
 
 </div>
 
-<div style="text-align: center;">
+<div>
 ![w:300](./images/about.png)
 </div>
 
 </div>
 
----
 
 # ¿Por qué estoy aquí?
 
@@ -590,6 +589,7 @@ epso.europa.eu · eu-careers.europa.eu · traineeships.ec.europa.eu · cert.euro
 </div>
 
 </div>
+
 
 
 
