@@ -175,7 +175,7 @@ Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
 
 <div class="highlight-box">
 
-▸ En los equipos técnicos europeos faltan ingenieros españoles  
+▸ En las instituciones faltan ingenieros.  
 ▸ El talento técnico no debería resignarse a un mercado limitado  
 ▸ Se toman decisiones tecnológicas que afectan a 450 millones de ciudadanos  
 ▸ Esta opción existe… y casi nadie os la cuenta
@@ -590,6 +590,7 @@ epso.europa.eu · eu-careers.europa.eu · traineeships.ec.europa.eu · cert.euro
 </div>
 
 </div>
+
 
 
 
