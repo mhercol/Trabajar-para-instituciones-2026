@@ -142,41 +142,45 @@ La pregunta es: **¿vais a estar ahí?**
 
 ---
 
-# Quien soy
+# Quién soy
 
-<div class="text-img">
+<div class="cols" style="align-items: center;">
+
 <div>
 
-**Miguel Herrero Collantes**
+**Miguel Herrero Collantes**  
+Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
 
-<div class="list-item">Ingeniero técnico de telecomunicación - Sistemas electrónicos</div>
-<div class="list-item">Ingeniero de Telecomunicación</div>
-<div class="list-item"><strong>Responsable de Seguridad de red</strong> - EEAS (Bruselas) (2021-Actualidad)</div>
-<div class="list-item"><strong>Analista de SOC</strong> - Consejo de la UE (Bruselas) (2017-2021)</div>
-<div class="list-item"><strong>Consultor de ciberseguridad</strong> - Empresas financieras (2015-2019)</div>
-<div class="list-item"><strong>Técnico de ciberseguridad</strong> - Incibe (2011-2017)</div>
-<div class="list-item"><strong>Ingeniero de Red 3G/4G</strong> - Datatronics (2008-2011)</div>
+<div class="list-item"><strong>Responsable de Seguridad de Red</strong> – EEAS, Bruselas (2021–Actualidad)</div>
+<div class="list-item"><strong>Analista de SOC</strong> – Consejo de la UE, Bruselas (2017–2021)</div>
+<div class="list-item"><strong>Consultor de Ciberseguridad</strong> – Sector financiero (2015–2019)</div>
+<div class="list-item"><strong>Técnico de Ciberseguridad</strong> – INCIBE (2011–2017)</div>
+<div class="list-item"><strong>Ingeniero de Red 3G/4G</strong> – Datatronics (2008–2011)</div>
 
-Correo: mhercol[@]gmail[.]com
+<div class="info-box" style="margin-top: 12px;">
+📧 mhercol[@]gmail[.]com
+</div>
 
 </div>
-<div>
 
+<div style="text-align: center;">
 ![w:300](./images/about.png)
+</div>
 
 </div>
+
+---
 
 # ¿Por qué estoy aquí?
 
 <div class="highlight-box">
 
-▸ Porque en los equipos técnicos europeos faltan ingenieros españoles
-▸ Porque el talento técnico no debería resignarse a un mercado limitado
-▸ Porque dentro se toman decisiones tecnológicas que afectan a 450 millones
-▸ Porque esta opción existe… y casi nadie os la cuenta
+▸ En los equipos técnicos europeos faltan ingenieros españoles  
+▸ El talento técnico no debería resignarse a un mercado limitado  
+▸ Se toman decisiones tecnológicas que afectan a 450 millones de ciudadanos  
+▸ Esta opción existe… y casi nadie os la cuenta
 
 </div>
-
 ---
 
 # El hueco que nadie ve
@@ -586,5 +590,6 @@ epso.europa.eu · eu-careers.europa.eu · traineeships.ec.europa.eu · cert.euro
 </div>
 
 </div>
+
 
 
