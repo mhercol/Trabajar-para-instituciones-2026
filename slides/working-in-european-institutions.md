@@ -140,10 +140,10 @@ style: |
 ## Una carrera en Europa para Ingenieros IT
 
 **Más de 60.000 personas trabajan en las instituciones de la UE.**
-**Muy pocos son ingenieros españoles.**
+**Siempre buscamos ingenieros.**
 
 Europa necesita perfiles técnicos.
-La pregunta es: **¿vais a estar ahí?**
+La pregunta es: **¿por qué no tú?**
 
 </div>
 
@@ -156,7 +156,8 @@ La pregunta es: **¿vais a estar ahí?**
 <div>
 
 **Miguel Herrero Collantes**  
-Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
+
+Ingeniero de Telecomunicación 
 
 <div class="list-item"><strong>Responsable de Seguridad de Red</strong> – EEAS, Bruselas (2021–Actualidad)</div>
 <div class="list-item"><strong>Analista de SOC</strong> – Consejo de la UE, Bruselas (2017–2021)</div>
@@ -171,7 +172,9 @@ Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
 </div>
 
 <div>
+  
 ![w:300](./images/about.png)
+
 </div>
 
 </div>
@@ -183,9 +186,9 @@ Ingeniero de Telecomunicación · Especialista en Sistemas Electrónicos
 <div class="highlight-box">
 
 ▸ En las instituciones faltan ingenieros.  
-▸ El talento técnico no debería resignarse a un mercado limitado  
+▸ Las Instituciones son early adopters de tecnología en muchos casos.  
 ▸ Se toman decisiones tecnológicas que afectan a 450 millones de ciudadanos  
-▸ Esta opción existe… y casi nadie os la cuenta
+▸ Esta opción existe y casi nunca se contempla.
 
 </div>
 
@@ -281,7 +284,7 @@ con impacto sobre **450 millones de ciudadanos**.
 
 ---
 
-# La realidad (sin maquillaje)
+# La realidads
 
 <div class="warn-box">
 
@@ -302,7 +305,7 @@ La estabilidad permite **construir carrera a largo plazo**.
 
 ---
 
-# Cómo entrar (sin mitos)
+# Cómo entrar 
 
 <div class="cols">
 <div>
@@ -392,7 +395,7 @@ Las convocatorias IT son **más específicas y menos masificadas** que las gener
 La última AST ICT (2022): 205 plazas, relación candidatos/plaza muy inferior a la generalista.
 
 Muchos candidatos no entrenan bien las pruebas MCQ.
-**Si te preparas de verdad, puedes estar arriba.**
+**Si te preparas de verdad, no es mas difícil que TSF.**
 
 </div>
 
@@ -598,6 +601,7 @@ epso.europa.eu · eu-careers.europa.eu · traineeships.ec.europa.eu · cert.euro
 </div>
 
 </div>
+
 
 
 
