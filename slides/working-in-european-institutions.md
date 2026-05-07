@@ -194,7 +194,7 @@ Ingeniero de Telecomunicación
 
 ---
 
-# El hueco que nadie ve
+# El hueco esta ahí
 
 <div class="warn-box">
 
@@ -224,7 +224,7 @@ Es que **no estamos compitiendo lo suficiente por ella.**
   Consejo de la UE       · Bruselas
   Tribunal de Justicia   · Luxemburgo
   BCE                    · Frankfurt
-  SEAE / EEAS            · Bruselas + 140 delegaciones mundiales
+  SEAE / EEAS            · Bruselas + 145 delegaciones mundiales
 
  Agencias clave para IT
  ──────────────────────────────────────────────────────────
@@ -315,7 +315,8 @@ La estabilidad permite **construir carrera a largo plazo**.
 ## Funcionario (EPSO)
 
 Carrera estable · plaza fija
-Proceso largo (1–2 años)
+Proceso largo (1–2 años) 
+Hay un nuevo proceso mas ágil para reducir estos tiempos. 
 Mayor estabilidad posible
 
 </div>
@@ -325,7 +326,7 @@ Mayor estabilidad posible
 ## Agente contractual
 
 Proceso más ágil que EPSO
-Contratos 4+2 años
+Contratos 6 u 8 años
 Indefinido posible en Agencias
 
 </div>
@@ -366,7 +367,7 @@ Construyes red desde dentro
 <div class="warn-box">
 
 **Convocatoria generalista 2026:**
-~22.000 candidatos · 1.490 plazas
+~180.000 candidatos · 1.490 plazas 
 Idiomas: **C1 + B2** · Duración: hasta 2 años
 
 </div>
