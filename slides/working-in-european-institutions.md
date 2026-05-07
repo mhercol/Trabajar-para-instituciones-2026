@@ -540,7 +540,7 @@ Es falta de candidatos técnicos que lo intenten.
  Ahora (último curso o recién graduado)
  ──────────────────────────────────────────────────────────
   ▸ Lleva tu inglés a C1 real — requisito para BlueBook y EPSO
-  ▸ Solicita BlueBook: próxima ventana 16 feb – 16 mar 2026
+  ▸ Solicita BlueBook: próxima ventana Octubre 2026
   ▸ Busca consultoras IT proveedoras en LinkedIn (sede Bruselas)
 
  0–2 años (primer paso real)
